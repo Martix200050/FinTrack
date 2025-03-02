@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FinTrack</string>
+    <string name="SpendingScreen">Витрати</string>
+    <string name="AnalysisScreen">Аналіз</string>
+    <string name="SettingsScreen">Налаштування</string>
+    <string name="expenses">Витрати</string>
+    <string name="create">створити</string>
+    <string name="week">тиждень</string>
+    <string name="month">місяць</string>
+    <string name="year">рік</string>
+    <string name="Spent">Витрачено:</string>
+    <string name="USD">USD</string>
+    <string name="UAH">UAH</string>
+    <string name="Delete">Видалити</string>
+    <string name="Cancel">Скасувати</string>
+    <string name="amount">сумма</string>
+    <string name="comment">коментар</string>
+    <string name="Confirmation">Ви впевнені, що хочете видалити цю витрату на</string>
+
+</resources>
