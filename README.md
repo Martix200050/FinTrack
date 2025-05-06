@@ -24,3 +24,6 @@
 - **Coroutines**: Utilized for asynchronous operations with Room database in the ViewModel for background tasks.
 - **Material Design**: Leveraged Material Design components to create a modern and user-friendly interface.
 - **MVVM**: The MVVM architecture is used for a clean separation of logic and UI.
+### 📸 screenshots
+
+<img src="screenshots/SpendingScreen.png" width="250"/> <img src="screenshots/SpendingScreenAdd.png" width="250"/> <img src="screenshots/AnalysisScreen.png" width="250"/>
